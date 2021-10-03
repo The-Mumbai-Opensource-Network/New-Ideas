@@ -5,3 +5,4 @@ Anybody can send in a new idea in the form of a PR updating the readme. All are 
 <p>&#8618 (1) Member Registrations Website</p>
 <p>&#8618 (2) Resolute : A Muncipal Level Online Resolutions Voting System where issues are raised and voted upon by citizens</p>
 <p>&#8618 (3) MumbVets : A database of veterinary doctors & clinics in and around Mumbai with emergency videocall features</p>
+<p>&#8618 (4) MumbVets : E-voting anonymous Dapp deployed on Avalanche Chain. Local municipalities can conduct survey, request feedback etc all at the luxury of NOT infringing anyone's privacy</p>
